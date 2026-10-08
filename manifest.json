@@ -6,7 +6,7 @@
       "size": 1372608,
       "sha256": "e23a22017b537fa842777ddea6026e4f238f9751d7ba07b09289802d8f37e30e",
       "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.2/firmware.bin",
-      "notes": ""
+      "notes": "Serial debug log off"
     },
     {
       "v": "3.1",
