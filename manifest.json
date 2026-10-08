@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "v": "3.3",
+      "schema": 1,
+      "size": 1376016,
+      "sha256": "d90b94035464e180a1d8f4cee7b99af746afe9ee01d80d9d45c8b0e7732b28cf",
+      "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.3/firmware.bin",
+      "notes": ""
+    },
+    {
       "v": "3.2",
       "schema": 1,
       "size": 1372608,
