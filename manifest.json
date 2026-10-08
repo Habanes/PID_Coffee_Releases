@@ -1,28 +1,3 @@
 {
-  "versions": [
-    {
-      "v": "3.1.2",
-      "schema": 1,
-      "size": 1380880,
-      "sha256": "cfd1f41f59be896a4c630544daa39310923773562b6a60b1b7e9635afab71261",
-      "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.1.2/firmware.bin",
-      "notes": ""
-    },
-    {
-      "v": "3.1.1",
-      "schema": 1,
-      "size": 1371040,
-      "sha256": "ac3b38a0befcb38084fec120199a3dac14bf084d341c99af9b71d542a1d03b52",
-      "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.1.1/firmware.bin",
-      "notes": ""
-    },
-    {
-      "v": "3.1.0",
-      "schema": 1,
-      "size": 1371040,
-      "sha256": "dfc36a744a637749ccc826d3790780ec5947705684866e6656f4b7825c3926c6",
-      "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.1.0/firmware.bin",
-      "notes": ""
-    }
-  ]
+  "versions": []
 }
