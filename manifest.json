@@ -6,7 +6,7 @@
       "size": 1381952,
       "sha256": "0694dba21ea051474ed37bda855462aa4139a9c32d3520b8553c54d57d3268fa",
       "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.1/firmware.bin",
-      "notes": ""
+      "notes": "Temperature read fix"
     },
     {
       "v": "3.0",
