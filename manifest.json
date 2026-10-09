@@ -6,7 +6,7 @@
       "size": 1377376,
       "sha256": "20d4ef66ec68a02286722a93ddbc3bdbb2ff3ae0e935f0aa0e1b1dac932a4055",
       "url": "https://github.com/Habanes/PID_Coffee_Releases/releases/download/v3.5/firmware.bin",
-      "notes": ""
+      "notes": "Chart: shot time, brew timings in image name"
     },
     {
       "v": "3.4",
